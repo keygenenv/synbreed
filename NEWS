@@ -1,0 +1,83 @@
+0.12-8
+================================
+
+* Uploaded on r-forge 2017 - 06 - 16
+
+* complete beagle runs, space value removed
+
+* na.strings option in function create.gpData
+
+0.12-7
+================================
+
+* Uploaded on r-forge 2017 - 05 - 08
+
+* Bug fixed in recoding gpData-objects with kept allele frequencies
+
+* chromosome wise beagle to save space, beagle space value added
+
+0.12-6
+================================
+
+* Uploaded on r-forge 2017 - 04 - 21
+
+* Addition for compatibility with objects generated with version 0.11
+
+0.12-5
+================================
+
+* Uploaded on r-forge 2017 - 04 - 19
+
+* Fixed formatting bug in write.vcf
+
+0.12-4
+================================
+
+* Uploaded on r-forge 2017 - 04 - 05
+
+* Smoothier presentation of alleles in gpData$map
+
+* Revised version of write.vcf(), missing positions printed for genetic positions
+
+* Removed links in help to packages not needed any more
+
+* Minor changes due to little bugs
+
+0.12-3
+================================
+
+* Uploaded on r-forge 2017 - 04 - 03
+
+* Multi core calculation in pairwiseLD-function for R internal calculations
+
+* bug in codeGeno fixed
+
+0.12-2
+================================
+
+* Uploaded on r-forge 2017 - 03 - 28
+
+* Minor changes due to bug fixes
+
+* Ploidy option in codeGeno
+
+0.12-1
+================================
+
+* Uploaded on r-forge 2017 - 03 - 27
+
+* Parallel versions for functions create.gpData, kin, pairwiseLD, summary.LDdf, summary.LDmat
+
+0.12-0
+================================
+
+* Uploaded on r-forge 2017 - 03 - 24
+
+* Parallelization of functions codeGeno, read.vcf2matrix, read.vcf2list, write.vcf
+
+* Allelefrequencies and alleles added to the map of gpData-object
+
+* beagle version 4.1 for imputation
+
+* Minor bug fixes
+
